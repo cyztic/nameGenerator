@@ -88,7 +88,7 @@ public class Letters {
 
     public static String letterD(int lineNumber) {
 
-        String d1 = "DDDD  ";
+        String d1 = "DDDD   ";
         String d2 = "D   D  ";
         String d3 = "D   D  ";
         String d4 = "D   D  ";
@@ -620,11 +620,11 @@ public class Letters {
 
     public static String letterW(int lineNumber) {
 
-        String ch1 = "W   W  ";
-        String ch2 = "W   W  ";
-        String ch3 = "W W W  ";
-        String ch4 = "W W W  ";
-        String ch5 = "WW WW  ";
+        String ch1 = "W   W ";
+        String ch2 = "W   W ";
+        String ch3 = "W W W ";
+        String ch4 = "W W W ";
+        String ch5 = "WW WW ";
         String ch = "";
         switch (lineNumber) {
         case 0:
